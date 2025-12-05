@@ -233,8 +233,8 @@ Pet health and temporary stats restored.
 
 **Authors:**
 * Christian Joseph A. Caraig (24-02989@g.batstate-u.edu.ph)
-* Angel Loraine D. Laureta
-* Fransis Emanuel C. Lucero
+* Angel Loraine D. Laureta 
+* Fransis Emanuel C. Lucero (24-07464@g.batstate-u.edu.ph)
 * Marcus James Anthony A. Madayag (24-01549@g.batstate-u.edu.ph)
 
 **Acknowledgements:**
